@@ -97,7 +97,7 @@ After doing few changes, you may decide to remove these changes. The Git reset c
 Below diagram shows the pictorial representation of Git reset command.
 
 <div align="center">
-<img src="">
+<img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitTutorial/FixMistakes/Image/AfterGitReset.png">
 </div>
 
 ## Soft
