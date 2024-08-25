@@ -42,11 +42,11 @@ GitHub, a hosting service for Git repositories, allows you to access and downloa
 
 ## Table of Content
 
-1. Git Tutorial
-2. Git and Github
-3. Git Contribute
-4. Git Advanced
-5. Git Undo
+1. __Git Tutorial__
+2. __Git and Github__
+3. __Git Contribute__
+4. __Git Advanced__
+5. __Git Undo__
 
 ## Internal Working of Git
 Git uses a decentralized model where each developer has their own copy of the repository and works immediately on the project. Git manages the projects with repositories and can clone a project to operate locally on it.
