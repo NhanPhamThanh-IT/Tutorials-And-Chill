@@ -21,7 +21,7 @@ A new branch is created; Tom used the git branch command to list the available b
 The pictorial representation of create branch operation is shown below:
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitTutorial/ManagingBranches/Image/AfterBranchCreate.png">
 </div>
 
 ## Switch between Branches
