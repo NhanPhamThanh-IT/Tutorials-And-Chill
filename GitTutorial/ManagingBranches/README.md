@@ -226,7 +226,7 @@ src/string_operations.c | 10 ++++++++++
 After the merge operation, the master branch will appear as follows:
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitTutorial/ManagingBranches/Image/MergeBranch.png">
 </div>
 
 Now, the branch __wchar_support__ has been merged with the master branch. We can verify it by viewing the commit message or by viewing the modifications done into the string_operation.c file.
