@@ -174,7 +174,7 @@ wchar_support -> wchar_support
 After committing the changes, the new branch will appear as follows:
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitTutorial/ManagingBranches/Image/CommitInBranch.png">
 </div>
 
 Tom is curious about what Jerry is doing in his private branch and he checks the log from the __wchar_support__ branch.
