@@ -16,7 +16,7 @@ General workflow is as follows:
 Shown below is the pictorial representation of the work-flow.
 
 <div align="center">
-<img src="">
+<img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitTutorial/LifeCycle/Image/LifeCycle.png">
 </div>
 
 </div>
