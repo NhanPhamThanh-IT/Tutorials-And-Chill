@@ -31,4 +31,15 @@ The following resources contain additional information on Git. Please use them t
 5. <a href="https://www.tutorialspoint.com/git-and-github-projects-project-based-learning-8-projects/index.asp"><b>Git and Github Projects: Project Based Learning (8 Projects)</b></a>, <b>[Learnkart Technology Pvt Ltd]</b>, 17 Lectures 2 hours
 6. <a href="https://www.tutorialspoint.com/git-for-beginners/index.asp"><b>GIT Online Course for Beginners</b></a>, <b>[Quaatso Learning]</b>, 19 Lectures 2 hours
 
+## Online Practices And Exercises
+
+1. <a href="https://www.w3schools.com/git/git_exercises.asp"><b>Git Exercises</b></a>, <b>[w3schools.com]</b>
+2. <a href="https://coderefinery.github.io/git-intro/exercises/"><b>List of exercises</b></a>, <b>[coderefinery.github.io]</b>
+3. <a href="https://www.geeksforgeeks.org/git-exercise/"><b>Git Exercises, Practice Questions and Solutions</b></a>, <b>[geeksforgeeks.org]</b>
+4. <a href="https://www.devopsschool.com/blog/wp-content/uploads/2018/01/Git-Lab-Excercise.pdf"><b>Introduction to Git Exercises</b></a>, <b>[devopsschool.com]</b>
+5. <a href="https://www.cs.hunter.cuny.edu/~sweiss/course_materials/csci395.86/activities_s19/gitruler_exercises.pdf"><b>Git Exercises</b></a>, <b>[cs.hunter.cuny.edu]</b>
+6. <a href="https://www.eecs.umich.edu/courses/eecs201/wn2020/files/assignments/adv3.pdf"><b>Advanced Exercises Set 3</b></a>, <b>[eecs.umich.edu]</b>
+7. <a href="https://hps.vi4io.org/_media/teaching/autumn_term_2023/hpcsa/git-exercise.pdf"><b>Exercise Introduction</b></a>, <b>[vi4io.org]</b>
+
+
 </div>
