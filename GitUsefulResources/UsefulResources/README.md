@@ -15,6 +15,12 @@ The following resources contain additional information on Git. Please use them t
 7. <a href="https://www.tutorialspoint.com/git/index.htm"><b>Git Tutorial</b></a>, <b>[tutorialspoint.com]</b>
 8. <a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners"><b>An Intro to Git and GitHub for Beginners (Tutorial)</b></a>, <b>[product.hubspot.com]</b>
 9. <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world"><b>Hello World</b></a>, <b>[docs.github.com]</b>
+10. <a href="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/"><b>Learn the Basics of Git in Under 10 Minutes</b></a>, <b>[freecodecamp.org]</b>
+11. <a href="https://www.simplilearn.com/tutorials/git-tutorial"><b>Git Tutorial for Beginners</b></a>, <b>[simplilearn.com]</b>
+12. <a href="https://git-scm.com/book/en/v2"><b>Book</b></a>, <b>[git-scm.com]</b>
+13. <a href="https://www.reddit.com/r/git/comments/t7e9u5/best_git_tutorial_for_beginners/"><b>Best git tutorial for beginners</b></a>, <b>[reddit.com]</b>
+14. <a href="https://www.gitkraken.com/learn/git/tutorials"><b>Git Tutorials</b></a>, <b>[gitkraken.com]</b>
+15. <a href="https://tutorials.codebar.io/version-control/command-line/tutorial.html"><b>Introduction to the Git command line</b></a>, <b>[tutorials.codebar.io]</b>
 
 ## Useful Video Courses
 
