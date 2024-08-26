@@ -68,7 +68,7 @@ Let us see the basic workflow of Git.
 - __Step 3__: You perform commit operation that moves the files from the staging area. After push operation, it stores the changes permanently to the Git repository.
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/NhanPhamThanh-IT/Git-Tutorial/blob/main/GitUsefulResources/QuickGuide/Image/StagingArea.png">
 </div>
 
 Suppose you modified two files, namely “sort.c” and “search.c” and you want two different commits for each operation. You can add one file in the staging area and do commit. After the first commit, repeat the same procedure for another file.
