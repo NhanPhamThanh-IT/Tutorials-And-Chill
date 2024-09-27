@@ -51,13 +51,13 @@ print(v-t)
         </td>
     </tr>
     <tr>
-        <td align='center'>**</td>
+        <td align='center'>\*</td>
         <td align='center'>Multiplies both vectors</td>
         <td align='justify'>
             <pre>
 v <- c( 2,5.5,6)
 t <- c(8, 3, 4)
-print(v**t)
+print(v\*t)
 
 [1] 16.0 16.5 24.0
             </pre>
