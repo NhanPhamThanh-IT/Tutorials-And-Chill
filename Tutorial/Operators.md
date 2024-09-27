@@ -18,7 +18,7 @@ We have the following types of operators in R programming:
 
 Following table shows the arithmetic operators supported by R language. The operators act on each element of the vector.
 
-<table align='center'>
+<table align='center' style='background-color: white;'>
     <tr align='center'>
         <th>Operator</th>
         <th>Description</th>
