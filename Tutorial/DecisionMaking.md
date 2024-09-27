@@ -6,7 +6,9 @@ Decision making structures require the programmer to specify one or more conditi
 
 Following is the general form of a typical decision making structure found in most of the programming languages:
 
-<img src='https://www.tutorialspoint.com/r/images/r_decision_making.png' align='center'>
+<div align="center">
+    <img src='https://www.tutorialspoint.com/r/images/r_decision_making.png'>
+</div>
 
 R provides the following types of decision making statements. Click the following links to check their detail.
 
