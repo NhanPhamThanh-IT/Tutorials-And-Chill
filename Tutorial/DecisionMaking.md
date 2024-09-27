@@ -10,24 +10,24 @@ Following is the general form of a typical decision making structure found in mo
 
 R provides the following types of decision making statements. Click the following links to check their detail.
 
-<table border="1">
+<table border="1" align='center'>
   <thead>
     <tr>
-      <th style="text-align: center;">Sr.No.</th>
-      <th style="text-align: center;">Statement & Description</th>
+      <th align="center">Sr.No.</th>
+      <th align="center">Statement & Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;">1</td>
+      <td align="center">1</td>
       <td><strong>if statement</strong><br>An if statement consists of a Boolean expression followed by one or more statements.</td>
     </tr>
     <tr>
-      <td style="text-align: center;">2</td>
+      <td align="center">2</td>
       <td><strong>if...else statement</strong><br>An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.</td>
     </tr>
     <tr>
-      <td style="text-align: center;">3</td>
+      <td align="center">3</td>
       <td><strong>switch statement</strong><br>A switch statement allows a variable to be tested for equality against a list of values.</td>
     </tr>
   </tbody>
