@@ -4,7 +4,7 @@
 
 A variable provides us with named storage that our programs can manipulate. A variable in R can store an atomic vector, group of atomic vectors or a combination of many Robjects. A valid variable name consists of letters, numbers and the dot or underline characters. The variable name starts with a letter or the dot not followed by a number.
 
-<table>
+<table align='center'>
     <tr align='center'>
         <th>Variable Name</th>
         <th>Validity</th>
