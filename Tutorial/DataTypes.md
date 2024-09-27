@@ -21,39 +21,38 @@ The simplest of these objects is the __vector object__ and there are six data ty
     <tr align='center'>
         <th>Data Type</th>
         <th>Example</th>
-        <th>Verify</th>
     </tr>
     <tr align='center'>
         <td>Logical</td>
         <td>TRUE, FALSE</td>
-        <td align='justify'><p>v <- TRUE</p><p>print(class(v))</p><p><strong>It produces the following result</strong></p><p>[1] "logical"</p></td>
     </tr>
     <tr align='center'>
         <td>Numeric</td>
         <td>12.3, 5, 999</td>
-        <td></td>
     </tr>
     <tr align='center'>
         <td>Integer</td>
         <td>2L, 34L, 0L</td>
-        <td></td>
     </tr>
     <tr align='center'>
         <td>Complex	</td>
         <td>3 + 2i</td>
-        <td></td>
     </tr>
     <tr align='center'>
         <td>Character</td>
         <td>'a' , '"good", "TRUE", '23.4'</td>
-        <td></td>
     </tr>
     <tr align='center'>
         <td>Raw</td>
         <td>"Hello" is stored as 48 65 6c 6c 6f</td>
-        <td></td>
     </tr>
 </table>
+
+You can use the following code to verify(show) the data type of one variable:
+
+```R
+print(class(v))
+```
 
 In R programming, the very basic data types are the R-objects called __vectors__ which hold elements of different classes as shown above. Please note in R the number of classes is not confined to only the above six types. For example, we can use many atomic vectors and create an array whose class will become array.
 
