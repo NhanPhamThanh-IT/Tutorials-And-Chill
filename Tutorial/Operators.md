@@ -51,13 +51,13 @@ print(v-t)
         </td>
     </tr>
     <tr>
-        <td align='center'>*</td>
+        <td align='center'>**</td>
         <td align='center'>Multiplies both vectors</td>
         <td align='justify'>
             <pre>
 v <- c( 2,5.5,6)
 t <- c(8, 3, 4)
-print(v*t)
+print(v**t)
 
 [1] 16.0 16.5 24.0
             </pre>
@@ -116,5 +116,9 @@ print(v^t)
         </td>
     </tr>
 </table>
+
+### Part 3 - Relational Operators
+
+Following table shows the relational operators supported by R language. Each element of the first vector is compared with the corresponding element of the second vector. The result of comparison is a Boolean value.
 
 </div>
