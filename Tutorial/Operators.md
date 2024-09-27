@@ -121,4 +121,14 @@ print(v^t)
 
 Following table shows the relational operators supported by R language. Each element of the first vector is compared with the corresponding element of the second vector. The result of comparison is a Boolean value.
 
+| Operator | Description | Example |
+|----------|-------------|---------|
+| `>`      | Checks if each element of the first vector is greater than the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v > t)``` <br>It produces the following result: <br>`[1] FALSE  TRUE FALSE FALSE` |
+| `<`      | Checks if each element of the first vector is less than the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v < t)``` <br>It produces the following result: <br>`[1]  TRUE FALSE  TRUE FALSE` |
+| `==`     | Checks if each element of the first vector is equal to the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v == t)``` <br>It produces the following result: <br>`[1] FALSE FALSE FALSE TRUE` |
+| `<=`     | Checks if each element of the first vector is less than or equal to the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v <= t)``` <br>It produces the following result: <br>`[1] TRUE FALSE TRUE TRUE` |
+| `>=`     | Checks if each element of the first vector is greater than or equal to the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v >= t)``` <br>It produces the following result: <br>`[1] FALSE TRUE FALSE TRUE` |
+| `!=`     | Checks if each element of the first vector is unequal to the corresponding element of the second vector. | ```v <- c(2,5.5,6,9) t <- c(8,2.5,14,9) print(v != t)``` <br>It produces the following result: <br>`[1] TRUE TRUE TRUE FALSE` |
+
+
 </div>
