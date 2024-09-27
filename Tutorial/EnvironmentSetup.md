@@ -6,7 +6,7 @@
 
 If you are still willing to set up your environment for R, you can follow the steps given below.
 
-#### 1. Windows Installation
+#### Part 1 - Windows Installation
 
 You can download the Windows installer version of R from R-3.2.2 for Windows (32/64 bit) and save it in a local directory.
 
@@ -14,7 +14,7 @@ As it is a Windows installer (.exe) with a name "R-version-win.exe". You can jus
 
 After installation you can locate the icon to run the Program in a directory structure "R\R3.2.2\bin\i386\Rgui.exe" under the Windows Program Files. Clicking this icon brings up the R-GUI which is the R console to do R Programming.
 
-#### 2. Linux Installation
+#### Part 2 - Linux Installation
 
 R is available as a binary for many versions of Linux at the location R Binaries.
 
