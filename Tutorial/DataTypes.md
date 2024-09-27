@@ -51,8 +51,17 @@ The simplest of these objects is the __vector object__ and there are six data ty
 You can use the following code to verify(show) the data type of one variable:
 
 ```R
+v <- TRUE
 print(class(v))
 ```
+
+After running this code, we will get the below outcome:
+
+```bash
+[1] "logical"
+```
+
+The above code is the example to show how to verify the datatype of a Logical datatype. You can do the same for the other datatypes.
 
 In R programming, the very basic data types are the R-objects called __vectors__ which hold elements of different classes as shown above. Please note in R the number of classes is not confined to only the above six types. For example, we can use many atomic vectors and create an array whose class will become array.
 
