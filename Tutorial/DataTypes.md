@@ -26,9 +26,7 @@ The simplest of these objects is the __vector object__ and there are six data ty
     <tr align='center'>
         <td>Logical</td>
         <td>TRUE, FALSE</td>
-        <td>
-            <pre>v <- TRUE<br>print(class(v))</pre><br>It produces the following result:<br><pre>[1] "logical" </pre>
-        </td>
+        <td align='justify'>v <- TRUE<br>print(class(v))<br><strong>It produces the following result</strong><br>[1] "logical"</td>
     </tr>
     <tr align='center'>
         <td>Numeric</td>
