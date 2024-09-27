@@ -50,7 +50,7 @@ Each element of the first vector is compared with the corresponding element of t
 | Operator | Description | Example |
 |----------|-------------|---------|
 | `&`      | It is called Element-wise Logical AND operator. It combines each element of the first vector with the corresponding element of the second vector and gives a TRUE output if both elements are TRUE. | ```v <- c(3,1,TRUE,2+3i) t <- c(4,1,FALSE,2+3i) print(v & t)``` <br>It produces the following result: <br>`[1]  TRUE  TRUE FALSE  TRUE` |
-| `|`      | It is called Element-wise Logical OR operator. It combines each element of the first vector with the corresponding element of the second vector and gives a TRUE output if one of the elements is TRUE. | ```v <- c(3,0,TRUE,2+2i) t <- c(4,0,FALSE,2+3i) print(v | t)``` <br>It produces the following result: <br>`[1]  TRUE FALSE  TRUE  TRUE` |
+| `\|`      | It is called Element-wise Logical OR operator. It combines each element of the first vector with the corresponding element of the second vector and gives a TRUE output if one of the elements is TRUE. | ```v <- c(3,0,TRUE,2+2i) t <- c(4,0,FALSE,2+3i) print(v | t)``` <br>It produces the following result: <br>`[1]  TRUE FALSE  TRUE  TRUE` |
 | `!`      | It is called Logical NOT operator. Takes each element of the vector and gives the opposite logical value. | ```v <- c(3,0,TRUE,2+2i) print(!v)``` <br>It produces the following result: <br>`[1] FALSE  TRUE FALSE FALSE` |
 
 The logical operator && and || considers only the first element of the vectors and give a vector of single element as output.
