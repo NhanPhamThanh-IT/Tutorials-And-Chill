@@ -85,7 +85,7 @@ To get started with this project, you will need to have R and RStudio installed 
 ### <a href='https://github.com/NhanPhamThanh-IT/R-Tutorial/tree/main/Tutorial'>Tutorial</a>
 This folder contains foundational topics for R programming. Each file focuses on specific concepts, ranging from basic syntax to advanced data manipulation techniques.
 
-### <a href='https://github.com/NhanPhamThanh-IT/R-Tutorial/tree/main/DataInterfraces'>Data Interfaces</a>
+### <a href='https://github.com/NhanPhamThanh-IT/R-Tutorial/tree/main/DataInterfaces'>Data Interfaces</a>
 This section covers various methods to import and export data in R. You will learn how to work with different file formats, databases, and web data.
 
 ### <a href='https://github.com/NhanPhamThanh-IT/R-Tutorial/tree/main/ChartsAndGraphs'>Charts and Graphs</a>
