@@ -63,7 +63,7 @@ Execution halted
 
 ## String Manipulation
 
-### Concatenating Strings - paste() function
+### Function 1 - Concatenating Strings - paste() function
 
 Many strings in R are combined using the __paste()__ function. It can take any number of arguments to be combined together.
 
@@ -103,7 +103,7 @@ When we execute the above code, it produces the following result:
 [1] "HelloHoware you? "
 ```
 
-### Formatting numbers & strings - format() function
+### Function 2 - Formatting numbers & strings - format() function
 
 Numbers and strings can be formatted to a specific style using __format()__ function.
 
@@ -168,7 +168,7 @@ When we execute the above code, it produces the following result:
 [1] " Hello  "
 ```
 
-### Counting number of characters in a string - nchar() function
+### Function 3 - Counting number of characters in a string - nchar() function
 
 This function counts the number of characters including spaces in a string.
 
@@ -197,7 +197,7 @@ When we execute the above code, it produces the following result:
 [1] 30
 ```
 
-### Changing the case - toupper() & tolower() functions
+### Function 4 - Changing the case - toupper() & tolower() functions
 
 These functions change the case of characters of a string.
 
@@ -233,7 +233,7 @@ When we execute the above code, it produces the following result:
 [1] "changing to lower"
 ```
 
-### Extracting parts of a string - substring() function
+### Function 5 - Extracting parts of a string - substring() function
 
 This function extracts parts of a String.
 
