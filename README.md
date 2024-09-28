@@ -20,8 +20,59 @@ Welcome to the R Tutorial project! This repository is designed to help you learn
 
 The project is organized into the following folders:
 
-R-Tutorial/ ├── Tutorial/ │ ├── Home │ ├── Overview │ ├── Environment Setup │ ├── Basic Syntax │ ├── Data Types │ ├── Variables │ ├── Operators │ ├── Decision Making │ ├── Loops │ ├── Functions │ ├── Strings │ ├── Vectors │ ├── Lists │ ├── Matrices │ ├── Arrays │ ├── Factors │ ├── Data Frames │ ├── Packages │ └── Data Reshaping ├── Data Interfaces/ │ ├── CSV Files │ ├── Excel Files │ ├── Binary Files │ ├── XML Files │ ├── JSON Files │ ├── Web Data │ └── Database ├── Charts and Graphs/ │ ├── Pie Charts │ ├── Bar Charts │ ├── Boxplots │ ├── Histograms │ ├── Line Graphs │ └── Scatterplots └── Statistics/ ├── Mean, Median & Mode ├── Linear Regression ├── Multiple Regression ├── Logistic Regression ├── Normal Distribution ├── Binomial Distribution ├── Poisson Regression ├── Analysis of Covariance ├── Time Series Analysis ├── Nonlinear Least Square ├── Decision Tree ├── Random Forest └── Survival Analysis └── Chi Square Tests
-
+```
+R-Tutorial/
+├── Tutorial/
+│   ├── Home
+│   ├── Overview
+│   ├── Environment Setup
+│   ├── Basic Syntax
+│   ├── Data Types
+│   ├── Variables
+│   ├── Operators
+│   ├── Decision Making
+│   ├── Loops
+│   ├── Functions
+│   ├── Strings
+│   ├── Vectors
+│   ├── Lists
+│   ├── Matrices
+│   ├── Arrays
+│   ├── Factors
+│   ├── Data Frames
+│   ├── Packages
+│   └── Data Reshaping
+├── Data Interfaces/
+│   ├── CSV Files
+│   ├── Excel Files
+│   ├── Binary Files
+│   ├── XML Files
+│   ├── JSON Files
+│   ├── Web Data
+│   └── Database
+├── Charts and Graphs/
+│   ├── Pie Charts
+│   ├── Bar Charts
+│   ├── Boxplots
+│   ├── Histograms
+│   ├── Line Graphs
+│   └── Scatterplots
+└── Statistics/
+    ├── Mean, Median & Mode
+    ├── Linear Regression
+    ├── Multiple Regression
+    ├── Logistic Regression
+    ├── Normal Distribution
+    ├── Binomial Distribution
+    ├── Poisson Regression
+    ├── Analysis of Covariance
+    ├── Time Series Analysis
+    ├── Nonlinear Least Squares
+    ├── Decision Tree
+    ├── Random Forest
+    ├── Survival Analysis
+    └── Chi-Square Tests
+```
 
 ---
 
