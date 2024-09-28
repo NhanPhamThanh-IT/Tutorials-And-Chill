@@ -4,7 +4,9 @@
 
 Welcome to the R Tutorial project! This repository is designed to help you learn and master R programming through structured content divided into four main folders: **Tutorial**, **Data Interfaces**, **Charts and Graphs**, and **Statistics**.
 
-## Table of Contents
+---
+
+### <div align='center'>Table of Contents</div>
 
 1. [Project Structure](#project-structure)
 2. [Getting Started](#getting-started)
@@ -16,7 +18,7 @@ Welcome to the R Tutorial project! This repository is designed to help you learn
 
 ---
 
-## Project Structure
+### <div align='center'>Project Structure</div>
 
 The project is organized into the following folders:
 
@@ -76,11 +78,13 @@ R-Tutorial/
 
 ---
 
-## Getting Started
+### <div align='center'>Getting Started</div>
 
 To get started with this project, you will need to have R and RStudio installed on your machine. This tutorial will guide you through the basics of R programming and its applications.
 
-## Folder Descriptions
+---
+
+### <div align='center'>Folder Descriptions</div>
 
 ### <a href='https://github.com/NhanPhamThanh-IT/R-Tutorial/tree/main/Tutorial'>Chapter 1 - Tutorial</a>
 This folder contains foundational topics for R programming. Each file focuses on specific concepts, ranging from basic syntax to advanced data manipulation techniques.
@@ -132,7 +136,7 @@ This section delves into statistical methods using R. It includes both descripti
 
 ---
 
-## Installation Requirements
+### <div align='center'>Installation Requirements</div>
 
 To use this tutorial, you should have:
 
@@ -143,7 +147,7 @@ You can download R from [CRAN](https://cran.r-project.org/) and RStudio from [RS
 
 ---
 
-## Usage
+### <div align='center'>Usage</div>
 
 1. Clone this repository to your local machine:
   ```bash
@@ -154,15 +158,21 @@ You can download R from [CRAN](https://cran.r-project.org/) and RStudio from [RS
 3. Navigate through the folders to access tutorials, data interfaces, charts, and statistical methods.
 4. Follow the examples provided in each file to enhance your understanding of R.
 
-## Contributing
+---
+
+### <div align='center'>Contributing</div>
 
 Contributions are welcome! If you have suggestions for improvements or additional content, feel free to create a pull request or open an issue in this repository.
 
-## License
+---
+
+### <div align='center'>License</div>
 
 This project is licensed under the MIT License. See the <a href=''><strong>LICENSE</strong></a> file for details.
 
-## Conclusion
+---
+
+### <div align='center'>Conclusion</div>
 
 Thank you for checking out the R Tutorial project! Happy coding!
 
