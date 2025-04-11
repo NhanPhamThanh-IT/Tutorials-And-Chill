@@ -2,9 +2,11 @@
 
 > _A laid-back yet comprehensive hub of tutorials across programming languages, tools, and database systems — perfect for both beginners and seasoned learners. Just code, sip coffee, and grow._
 
+
 ---
 
-## 📖 About This Repository
+
+### <div align="center">📖 About This Repository</div>
 
 **Tutorials-And-Chill** is a carefully curated collection of practical, beginner-friendly, and chill tutorials to help you learn programming languages, developer tools, and database management systems at your own pace. Whether you're brushing up on SQL, diving into R, mastering Git, or planning to explore more topics like Python, JavaScript, or cloud tools, this repo is your relaxed companion on the coding journey.
 
@@ -16,9 +18,11 @@ This repository currently includes tutorials on:
 
 And more to come: Python, JavaScript, Bash, Docker, Kubernetes, MongoDB, PostgreSQL, Firebase, VS Code tips, and many more!
 
+
 ---
 
-## 🗂️ Repository Structure
+
+### <div align="center">🗂️ Repository Structure</div>
 
 Each folder corresponds to a **topic** or **technology** and contains hands-on, well-documented tutorials with real-world examples and explanations.
 
@@ -41,9 +45,11 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
 
 > 📝 Tutorials are mostly written as Jupyter Notebooks for interactivity and better learning experience.
 
+
 ---
 
-## ✨ Features
+
+### <div align="center">✨ Features</div>
 
 - 🔰 Beginner-friendly – Clear and concise explanations with examples
 - 🧑‍💻 Hands-on notebooks – Interactive Jupyter Notebooks with outputs
@@ -51,9 +57,11 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
 - 🧠 Progressive difficulty – Tutorials start from basics to advanced
 - 🗂️ Organized by topics – Easy navigation across different technologies
 
+
 ---
 
-## 🚀 Planned Topics (Coming Soon)
+
+### <div align="center">🚀 Planned Topics (Coming Soon)</div>
 - We're continuously expanding! Here's what’s on the roadmap:
 - 🐍 Python (syntax, OOP, pandas, matplotlib, etc.)
 - ☁️ Cloud tools (AWS, GCP basics, Firebase)
@@ -64,9 +72,11 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
 - 🌐 Web basics (HTML, CSS, JS)
 - ⚙️ Tools (VS Code, GitHub, Postman)
 
+
 ---
 
-## 🛠 Tech Stack
+
+### <div align="center">🛠 Tech Stack</div>
 
 <p align="center">
 
@@ -91,18 +101,20 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
 
 </p>
 
+
 ---
 
-## 📦 How to Use
 
-1. **Clone the repository:**
+### <div align="center">📦 How to Use</div>
+
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/Tutorials-And-Chill.git
 cd Tutorials-And-Chill
 ```
 
-2. **Open Jupyter Lab or Notebook:**
+**2. Open Jupyter Lab or Notebook:**
 
 ```bash
 jupyter lab
@@ -114,11 +126,13 @@ Or
 jupyter notebook
 ```
 
-3. **Navigate to the topic folder and start learning!**
+**3. Navigate to the topic folder and start learning!**
+
 
 ---
 
-## 🙌 Contributing
+
+### <div align="center">🙌 Contributing</div>
 
 Want to contribute a tutorial or fix something?
 
@@ -134,18 +148,22 @@ We welcome PRs for:
 - Enhancements or corrections
 - Translations/localization
 
+
 ---
 
-## 📬 Contact
+
+### <div align="center">📬 Contact</div>
 
 Feel free to reach out for suggestions, collaboration, or just to say hi:
 
 - 📧 Email: ptnhanit230104@gmail.com
 - 💬 GitHub Discussions (soon)
 
+
 ---
 
-## ⭐️ Show Your Support
+
+### <div align="center">⭐️ Show Your Support</div>
 If you find this project helpful:
 
 - 🌟 Star this repo
@@ -154,14 +172,18 @@ If you find this project helpful:
 
 Let’s make learning programming a little more chill and a lot more fun 🚀
 
----
-
-## 📘 License
-This project is licensed under the MIT License.
 
 ---
 
-## 🔖 Tags
+
+### <div align="center">📘 License</div>
+This project is licensed under the <a href="https://github.com/NhanPhamThanh-IT/Tutorials-And-Chill?tab=MIT-1-ov-file" style="text-decoration: none;"><strong>MIT License</strong></a>.
+
+
+---
+
+
+### <div align="center">🔖 Tags</div>
 
 `#git` `#r` `#sql` `#tutorials` `#programming-languages` `#database-management` `#beginner-friendly` `#interactive`
 
