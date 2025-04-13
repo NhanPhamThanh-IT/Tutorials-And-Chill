@@ -15,8 +15,9 @@ This repository currently includes tutorials on:
 - ✅ Git – version control essentials
 - ✅ R – data analysis and statistics
 - ✅ SQL – working with relational databases
+- ✅ Python – AI, machine learning, deep learning
 
-And more to come: Python, JavaScript, Bash, Docker, Kubernetes, MongoDB, PostgreSQL, Firebase, VS Code tips, and many more!
+And more to come: JavaScript, Bash, Docker, Kubernetes, MongoDB, PostgreSQL, Firebase, VS Code tips, and many more!
 
 
 ---
@@ -28,18 +29,23 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
 
 ```bash
 📁 GIT/
-    ├── tutorial-1-basic-commands.ipynb
-    ├── tutorial-2-branches-and-merging.ipynb
+    ├── tutorial-1/
+    ├── tutorial-2/
     └── ...
 
 📁 R/
-    ├── tutorial-1-dataframe-basics.ipynb
-    ├── tutorial-2-data-visualization.ipynb
+    ├── tutorial-1/
+    ├── tutorial-2/
     └── ...
 
 📁 SQL/
-    ├── tutorial-1-select-queries.ipynb
-    ├── tutorial-2-joins-and-subqueries.ipynb
+    ├── tutorial-1/
+    ├── tutorial-2/
+    └── ...
+
+📁 Python/
+    ├── tutorial-1/
+    ├── tutorial-2/
     └── ...
 ```
 
@@ -87,7 +93,7 @@ Each folder corresponds to a **topic** or **technology** and contains hands-on, 
   </tr>
   <tr>
     <td>Tutorials Format</td>
-    <td>Jupyter Notebooks</td>
+    <td>Markdown files</td>
   </tr>
   <tr>
     <td>Programming Languages</td>
@@ -114,19 +120,7 @@ git clone https://github.com/your-username/Tutorials-And-Chill.git
 cd Tutorials-And-Chill
 ```
 
-**2. Open Jupyter Lab or Notebook:**
-
-```bash
-jupyter lab
-```
-
-Or
-
-```bash
-jupyter notebook
-```
-
-**3. Navigate to the topic folder and start learning!**
+**2. Navigate to the topic folder and start learning!**
 
 
 ---
@@ -185,5 +179,5 @@ This project is licensed under the <a href="https://github.com/NhanPhamThanh-IT/
 
 ### <div align="center">🔖 Tags</div>
 
-`#git` `#r` `#sql` `#tutorials` `#programming-languages` `#database-management` `#beginner-friendly` `#interactive`
+`#python` `#git` `#r` `#sql` `#tutorials` `#programming-languages` `#database-management` `#beginner-friendly` `#interactive`
 
