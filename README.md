@@ -11,8 +11,6 @@
 
 > _A laid-back yet comprehensive hub of tutorials across programming languages, tools, and database systems — perfect for both beginners and seasoned learners. Just code, sip coffee, and grow._
 
-</div>
-
 ### <div align="center">📖 About This Repository</div>
 
 **Tutorials-And-Chill** is a carefully curated collection of practical, beginner-friendly, and chill tutorials to help you learn programming languages, developer tools, and database management systems at your own pace. Whether you're brushing up on SQL, diving into R, mastering Git, or planning to explore more topics like Python, JavaScript, or cloud tools, this repo is your relaxed companion on the coding journey.
@@ -165,3 +163,5 @@ This project is licensed under the <a href="https://github.com/NhanPhamThanh-IT/
 ### <div align="center">🏁 Conclusion</div>
 
 **Tutorials-And-Chill** is designed to be your go-to resource for learning, reference, and practice. Whether you’re a student, professional, or hobbyist, you’ll find something useful here. The project is always evolving, so check back for new tutorials and updates. Happy coding, and remember to enjoy the journey! ☕📚
+
+</div>
